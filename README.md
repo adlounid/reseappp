@@ -30,7 +30,7 @@ Publik URL: lägg in din deployade adress här före inlämning.
 
 ## AI-redovisning
 
-Codex användes för att tolka uppgiftskraven, föreslå struktur och skriva kod. Koden ska gås igenom och förstås före redovisningen.
+Codex användes för att tolka uppgiftskraven, föreslå struktur och fixa små buggar 
 
 ## Reflektion
 
