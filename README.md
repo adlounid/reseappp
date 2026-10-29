@@ -26,7 +26,7 @@ Appen använder React med Vite och React Router för routes och URL-state. API-a
 
 Deploya mappen på Vercel eller Netlify med byggkommando `npm run build` och publiceringsmapp `dist`.
 
-Publik URL: lägg in din deployade adress här före inlämning.
+Publik URL: https://daniel-reseapp.netlify.app
 
 ## AI-redovisning
 
